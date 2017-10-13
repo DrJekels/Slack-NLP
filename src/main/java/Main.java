@@ -1,8 +1,8 @@
-package slack;
 
-import slack.FetchMessages;
-import slack.FetchEmojis;
-import slack.SendingMessages;
+import edu.stanford.nlp.*;
+
+import bot.slack.*;
+import bot.nlp.*;
 
 public class Main {
 
