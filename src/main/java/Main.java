@@ -1,8 +1,9 @@
 
 import edu.stanford.nlp.*;
+import com.ullink.slack.simpleslackapi.*;
 
-import bot.slack.*;
-import bot.nlp.*;
+import NLP.*;
+import Slack.*;
 
 public class Main {
 
