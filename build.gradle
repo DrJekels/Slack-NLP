@@ -31,9 +31,3 @@ test {
 task wrapper(type: Wrapper) {
     gradleVersion = '4.2.1'
 }
-
-jar {
-    manifest {
-        attributes 'Main-Class': 'Main'
-    }
-}
